@@ -42,7 +42,7 @@ As always...
 
     **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;Tests the input from an INMP441 Microphone and Speaker Output from a MAX98357A I2S 3W Class D Amplifier 
     
-    **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[HomeAssistant_ESP32_Satellite_Soundcheck.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/HomeAssistant_ESP32_Satelite_Soundcheck.ino)
+    **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[HomeAssistant_ESP32_Satellite_Soundcheck.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/HomeAssistant_ESP32_Satelite_Soundcheck.ino)
     
     **Usage:**&nbsp;&nbsp;&nbsp;You will be prompted to select either the microphone or speaker check by entering a number in the serial.
     
