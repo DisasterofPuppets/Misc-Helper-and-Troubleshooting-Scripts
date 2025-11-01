@@ -27,7 +27,7 @@ As always...
 
   - **⚡ ESP32 Microwave Sensor Test**
     
-    **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test.ino)  
+    **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_Microwave_Sensor_Trigger_Test.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test.ino)  
     
     **Usage:**&nbsp;&nbsp;&nbsp; Upload and watch the Serial as it returns the state of the sensor.
 
