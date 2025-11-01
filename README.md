@@ -36,7 +36,17 @@ As always...
     
     **Usage:**&nbsp;&nbsp;&nbsp; Upload and watch the Serial as it returns the state of the sensor.
 
-    **Wiring Diagram:**&nbsp;&nbsp;&nbsp; [Here](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test_WIRING.png)
+    **Wiring Diagram:**&nbsp;&nbsp;&nbsp; [ESP32 Microwave Sensor Wiring](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test_WIRING.png)
+
+  - **⚡ ESP32 PIR Sensor Test**
+  
+     **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;outputs the state of a PIR Sensor to Serial. Hc-SR312 (AM312)
+    
+    **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_PIR_Sensor_Trigger_Test.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_PIR_Sensor_Trigger_Test.ino)  
+    
+    **Usage:**&nbsp;&nbsp;&nbsp; Upload and watch the Serial as it returns the state of the sensor.
+
+    **Wiring Diagram:**&nbsp;&nbsp;&nbsp; [ESP32 PIR Sensor Wiring](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_PIR_Sensor_Trigger_Test_WIRING.ino.png)
     
 
   - **🎤 Home Assistant - ESP32 Speaker and Microphone Test**
