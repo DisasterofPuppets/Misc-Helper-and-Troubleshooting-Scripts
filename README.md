@@ -17,7 +17,7 @@ As always...
   - **⚡ ESP32 GPIO Test - Voltage Check**
     
     **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;Manually test the functionality of individual GPIO pins on your ESP32. It allows you to toggle a selected GPIO pin between HIGH (~3.3V DC) and LOW (~0V DC) states
-    via the serial monitor, confirming its output capability and helping to diagnose wiring issues
+    via the serial monitor, confirming its output capability and helping to diagnose wiring issues.
     
     **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_GPIO_Test.ino)  
     
