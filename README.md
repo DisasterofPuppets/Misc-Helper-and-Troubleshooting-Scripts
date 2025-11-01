@@ -24,6 +24,16 @@ As always...
     
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional instructions included in code comments.
 
+
+  - **⚡ ESP32 Microwave Sensor Test**
+    
+    **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test.ino)  
+    
+    **Usage:**&nbsp;&nbsp;&nbsp; Upload and watch the Serial as it returns the state of the sensor.
+
+    **Wiring Diagram:**&nbsp;&nbsp;&nbsp; [Here](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test_WIRING.png).
+    
+
   - **🎤 Home Assistant - ESP32 Speaker and Microphone Test**
     
     **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[HomeAssistant_ESP32_Satellite_Soundcheck.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/HomeAssistant_ESP32_Satelite_Soundcheck.ino)
