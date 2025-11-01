@@ -16,6 +16,8 @@ As always...
   
   - **⚡ ESP32 GPIO Test - Voltage Check**
     
+    **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;outputs the state of a Microwave Sensor to Serial. EMSea / RCWL-0516
+    
     **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/ESP32_GPIO_Test.ino)  
     
     **Usage:**&nbsp;&nbsp;&nbsp;Enter the pin number in serial monitor and the program will set it to High.
@@ -26,6 +28,8 @@ As always...
 
 
   - **⚡ ESP32 Microwave Sensor Test**
+  
+     **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;outputs the state of a Microwave Sensor to Serial. EMSea / RCWL-0516
     
     **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_Microwave_Sensor_Trigger_Test.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test.ino)  
     
@@ -35,6 +39,8 @@ As always...
     
 
   - **🎤 Home Assistant - ESP32 Speaker and Microphone Test**
+
+    **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;Tests the input from an INMP441 Microphone and Speaker Output from a MAX98357A I2S 3W Class D Amplifier 
     
     **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[HomeAssistant_ESP32_Satellite_Soundcheck.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/HomeAssistant_ESP32_Satelite_Soundcheck.ino)
     
