@@ -35,12 +35,12 @@ As always...
     
     **Usage:**&nbsp;&nbsp;&nbsp; Upload and watch the Serial as it returns the state of the sensor.
 
-    **Wiring Diagram:**&nbsp;&nbsp;&nbsp; [Here](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test_WIRING.png).
+    **Wiring Diagram:**&nbsp;&nbsp;&nbsp; [Here](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/ESP32_Microwave_Sensor_Trigger_Test_WIRING.png)
     
 
   - **🎤 Home Assistant - ESP32 Speaker and Microphone Test**
-
-    **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;Tests the input from an INMP441 Microphone and Speaker Output from a MAX98357A I2S 3W Class D Amplifier 
+    
+    **What is it for?:**&nbsp;&nbsp;&nbsp;&nbsp;Tests the input from an INMP441 Microphone and Speaker Output from a MAX98357A I2S 3W Class D Amplifier
     
     **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[HomeAssistant_ESP32_Satellite_Soundcheck.ino](https://github.com/DisasterofPuppets/Misc-Helper-and-Troubleshooting-Scripts/blob/main/HomeAssistant_ESP32_Satelite_Soundcheck.ino)
     
